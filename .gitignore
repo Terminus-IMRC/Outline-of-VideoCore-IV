@@ -1,0 +1,11 @@
+*.swp
+
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.log
+*.pdf
+*.toc
+*.xbb
