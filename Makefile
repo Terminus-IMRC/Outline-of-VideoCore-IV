@@ -1,4 +1,4 @@
-DEPS := main.tex refer.bib vc-fig1a.xbb vc-fig1b.xbb vc-fig2.xbb
+DEPS := main.tex refer.bib vc-fig1a.xbb vc-fig1b.xbb vc-fig2.xbb vc-vc.xbb
 
 RM := rm -f
 
